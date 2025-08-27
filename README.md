@@ -1,3 +1,3 @@
 # Hypothesis-Testing-
 ## Chi2 Test
-* #Step 1 
+# *Step 1 
