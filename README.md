@@ -1,2 +1,2 @@
 # Hypothesis-Testing-
-# Chi2 Test
+## Chi2 Test
